@@ -32,7 +32,7 @@ A stylish landing page that showcases headphone products with smooth animations 
 * Add product filtering and search functionality
 * Integrate a real shopping cart system
 
-![image alt]()
+![image alt](https://github.com/sathyasriyuvaraj/AudiveX/blob/98f666049c07946fbfaa4b493af5def25f1c9785/Screenshot%20(7).png)
 ![image alt]()
 ![image alt]()
 
